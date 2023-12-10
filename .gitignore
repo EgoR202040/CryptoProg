@@ -1,6 +1,4 @@
 .gitattributes
-cipher
-hash
 recover.txt
 cipher.txt
 output.txt
